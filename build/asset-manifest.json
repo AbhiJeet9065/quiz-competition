@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/quiz-competition/static/css/main.20b6f539.css",
+    "main.js": "/quiz-competition/static/js/main.c4208765.js",
+    "static/media/bg-img1.jpg": "/quiz-competition/static/media/bg-img1.cdd30ea2741de3e0562f.jpg",
+    "static/media/materialdesignicons-webfont.eot": "/quiz-competition/static/media/materialdesignicons-webfont.b04f03f08b5445700a30.eot",
+    "static/media/materialdesignicons-webfont.ttf?v=7.3.67": "/quiz-competition/static/media/materialdesignicons-webfont.89ae221302c6617c0a87.ttf",
+    "static/media/materialdesignicons-webfont.woff?v=7.3.67": "/quiz-competition/static/media/materialdesignicons-webfont.7484a6c648c26cc63e73.woff",
+    "static/media/materialdesignicons-webfont.woff2?v=7.3.67": "/quiz-competition/static/media/materialdesignicons-webfont.f97b38e4afe65388b4f0.woff2",
+    "index.html": "/quiz-competition/index.html",
+    "main.20b6f539.css.map": "/quiz-competition/static/css/main.20b6f539.css.map",
+    "main.c4208765.js.map": "/quiz-competition/static/js/main.c4208765.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20b6f539.css",
+    "static/js/main.c4208765.js"
+  ]
+}
